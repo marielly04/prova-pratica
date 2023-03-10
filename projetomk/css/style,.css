@@ -1,0 +1,43 @@
+.container{
+    background-color: #fc94af;
+    width: 900px;
+}
+
+.menu {
+    background-color: #ffb6c1;
+}
+
+.nav-link{
+    color: black;
+}
+
+article{
+    /* height: 1350;
+    width: 1450; */
+    color:  black;;
+    padding: 1rem;
+}
+
+.historia p{
+    padding-right: 10px;
+    display: flex;
+    top: -444px;
+    left: 40%;
+}
+
+.final{
+    background-color: #ffb6c1;
+}
+
+footer p{
+    text-align: center;
+    color: black;
+}
+
+.esse{
+    margin-top: 90px;
+}
+
+.img{
+    text-align: center;
+}
